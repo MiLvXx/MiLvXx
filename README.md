@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 👋 Hi there! I'm Xu Xin
 
 - 🎓 A student from the class of 2025, skilled in Java and Python development.
