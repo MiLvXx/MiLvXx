@@ -13,11 +13,11 @@
 
 ### 🚀 Projects
 
-- **[Summer-Framework](https://github.com/XuXin/Summer-Framework)**: A lightweight Java framework inspired by Spring, featuring basic IOC container, AOP, JDBC, and more.
+- **[Summer-Framework](https://github.com/MiLvXx/Summer-Framework)**: A lightweight Java framework inspired by Spring, featuring basic IOC container, AOP, JDBC, and more.
 
 ### 📊 GitHub Stats
 
-![Xu Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuXin&show_icons=true&theme=radical)
+![Xu Xin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiLvXx&show_icons=true&theme=radical)
 
 ### 🌐 Connect with me
 
@@ -28,7 +28,7 @@
 
 I'm always open to collaborating on open-source projects, especially those involving Java/Python or new frameworks and tools.
 
-![Profile Views](https://komarev.com/ghpvc/?username=XuXin&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MiLvXx&color=blue)
 
 <!--
 **MiLvXx/MiLvXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
